@@ -9,8 +9,8 @@ from vaemof.configs import AttributeDict
 # === Paths ===
 results_dir = "results11/best"
 data_path = "../data/MOF_properties_train.csv"
-output_csv_path = "latent_space_with_properties_8.csv"
-output_merged_path = "latent_space_full_8.csv"
+output_csv_path = "latent_space_with_properties_32.csv"
+output_merged_path = "latent_space_full_32.csv"
 batch_size = 256
 
 # === Load model ===
