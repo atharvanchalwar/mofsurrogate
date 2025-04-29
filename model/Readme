@@ -1,1 +1,1 @@
-readme
+This directory contains a trained VAE model for 32 latent dimensions and can be accessed using predict.py and latent.py for VAE prediction and encoding operations.
